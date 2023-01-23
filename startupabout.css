@@ -1,0 +1,23 @@
+
+p{
+    text-align: justify;
+    font-style: italic;
+    font-size: medium;
+    color: rgb(192, 57, 57);
+    border: 10px greenyellow;
+   
+}
+
+head{
+    color: rgb(38, 20, 201);
+    text-align: center;
+    text-decoration: underline pink;
+}
+
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    float: left;
+    border: 10px;
+}

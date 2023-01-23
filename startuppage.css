@@ -1,0 +1,33 @@
+body{
+    background-image:url(https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8bGFwdG9wc3xlbnwwfHwwfHw%3D&w=1000&q=80);
+    background-size: cover;
+    text-align: center;
+    text-orientation: ;
+    
+    
+}
+
+p{
+    color: aquamarine;
+    position: fixed;
+    left: 100px;
+    top: 100px;
+    right: 100px;;
+    text-align:center;
+    text-decoration:underline solid gold;
+    font-size:xx-large;
+    
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+
+b
+button:hover{
+    color: brown;
+}
