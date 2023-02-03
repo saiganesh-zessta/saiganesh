@@ -1,0 +1,18 @@
+p{
+    text-decoration: underline;
+    text-transform: uppercase;
+    line-height: 50px;
+    font-style: italic;
+    font-weight: 200;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+img{
+    float: left;
+}
+
+footer{
+    clear: both;
+    text-align: center;
+}

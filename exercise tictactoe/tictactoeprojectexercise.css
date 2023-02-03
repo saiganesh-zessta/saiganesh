@@ -1,0 +1,14 @@
+td{
+    height: 150px;
+    width: 150px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 100px;
+    margin: auto;
+    align-items: center;
+}
+
+.centre{
+    margin-left: auto;
+    margin-right: auto;
+}
